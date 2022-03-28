@@ -10,9 +10,9 @@ Because create the plot need put all the relative features together to give us m
 We use groupby function to calculate the total rides, total drivers and total amount of fares for each city type.
 According to the picture below, we retrieved the average fare per ride and average fare per driver from each city type.
 The Urban cities have the most total drivers and highest total fares than other two cities. Although, Rural city didn't have higher amount in total fares but it had the highest in average fare per ride and average fare per driver rather than other cities.
-![suammary frame](summary_frame.png)
+![suammary frame](https://github.com/JoJofia/PyBer_Analysis/blob/9e4185d32e7010bcfa21a0ad42d24a2743102bae/analysis/summary_frame.pngg)
 
-![pyber summary](pyber_summary.png)
+![pyber summary](https://github.com/JoJofia/PyBer_Analysis/blob/9e4185d32e7010bcfa21a0ad42d24a2743102bae/analysis/pyber_summary.png)
  
 ## Summary: 
 
@@ -21,6 +21,6 @@ In the new DataFrame that using resample() function by week to get the sum of th
 1. Potential opportunity on Rural city and Suburban city is to hire more drivers for those two cities or expand the different kind of bussiness in the local city. 
 2. The average fare charge for each driver in Urban city is $16.57.However, this market graudally become saturation. we can relocate the drivers to other cities or different job area such as food deliver, package delivery etc to give more support to increase the overall revenue per driver.
 3. Do the increase or decrease on the fare base on the QTY of riders in the city.
-![PyBer fare summary](PyBer_fare_summary.png)
+![PyBer fare summary](https://github.com/JoJofia/PyBer_Analysis/blob/9e4185d32e7010bcfa21a0ad42d24a2743102bae/analysis/PyBer_fare_summary.png)
 
 
