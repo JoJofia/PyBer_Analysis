@@ -10,7 +10,7 @@ Because create the plot need put all the relative features together to give us m
 We use groupby function to calculate the total rides, total drivers and total amount of fares for each city type.
 According to the picture below, we retrieved the average fare per ride and average fare per driver from each city type.
 The Urban cities have the most total drivers and highest total fares than other two cities. Although, Rural city didn't have higher amount in total fares but it had the highest in average fare per ride and average fare per driver rather than other cities.
-![suammary frame](https://github.com/JoJofia/PyBer_Analysis/blob/9e4185d32e7010bcfa21a0ad42d24a2743102bae/analysis/summary_frame.pngg)
+![suammary frame](https://github.com/JoJofia/PyBer_Analysis/blob/0927bd6146083d49633bca46c2a525bc0524211d/analysis/summary_frame.png)
 
 ![pyber summary](https://github.com/JoJofia/PyBer_Analysis/blob/9e4185d32e7010bcfa21a0ad42d24a2743102bae/analysis/pyber_summary.png)
  
